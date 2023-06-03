@@ -7,5 +7,7 @@ html {
 }
 
 body {
+  background-image: url("./ToDo.jpeg");
+  background-size: cover;
   margin: 0;
 }
